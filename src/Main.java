@@ -6,9 +6,9 @@ public class Main {
         //Se instancia la clase matriz
         Matriz matriz = new Matriz();
 
-        int numero = 0;
-        int fila = 0;
-        int columna = 0;
+        int numero;
+        int fila;
+        int columna;
 
         //Validacion y entrada de datos
         do {
