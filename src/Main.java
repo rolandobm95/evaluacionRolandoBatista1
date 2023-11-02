@@ -1,4 +1,10 @@
 import java.util.Scanner;
+/*
+En esta clase se realiza un algoritmo que cuando se ingrese un número y su
+ubicación en una matriz de 5x5, se ubique este número y a partir de él se
+generan los secuenciales en forma horizontal y vertical. Luego se visualiza
+la matriz final
+ */
 
 public class Main {
     public static void main(String[] args) {
